@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hello
+
+Just trying out GitHib and learning Java as well and Scala.
